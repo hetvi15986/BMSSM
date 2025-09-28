@@ -1,6 +1,1 @@
-States:
 
-OFF : no current is flowing (AIRS disconnected)
-
-Recieve: "Start"
-- increase current until X is reached.
